@@ -16,6 +16,8 @@ The GUI has 2 main modes. A manual mode that a user can use to manually track a 
 
 <a href="https://ibb.co/f9p7LhL"><img src="https://i.ibb.co/PMh8070/Cloud-Internet.png" alt="Cloud-Internet" border="0"></a> 
 
+<a href="https://ibb.co/P5XWKGP"><img src="https://i.ibb.co/FBZY24y/Network-Setup.png" alt="Network-Setup" border="0"></a>
+
 
 **Software** 
 
