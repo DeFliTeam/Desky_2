@@ -1,5 +1,11 @@
 # Desky_2
-Build Instructions for Raspbian/Ubuntu based system with rotator for satellite tracking 
+Build Instructions for Raspbian/Ubuntu based system with rotator for satellite tracking  
+
+**2 Elements** 
+
+Step 1 Build Rotator 
+Step 2 Use RPi 3 + to build controller and install software
+
 
 **Desky Rotator** 
 
@@ -10,24 +16,6 @@ The GUI has 2 main modes. A manual mode that a user can use to manually track a 
 
 <a href="https://ibb.co/f9p7LhL"><img src="https://i.ibb.co/PMh8070/Cloud-Internet.png" alt="Cloud-Internet" border="0"></a> 
 
-**Requirements** 
-
-The mechanical requirements are not much. Most of the parts will be printed using a 3D printer and few fastening bolts, nuts and screws. Note you can purchase a pre-built unit from our webstore, alternatively you can acquire the parts yourself. 
-
-
-    Access to 3D printing
-    M2.5 bolts and nuts
-    Brass or plastic spaces
-    Tripod stand
-
-**Electrical and Electronics**
-
-We wanted to make Desky rotator modular, portable and completely standalone. This required some components that need to provide adequate power and control. Below are some requirements.
-
-    A4988 stepper driver chips
-    MPU-9250
-    Nema17 2A stepper motors
-    12V batteries
 
 **Software** 
 
